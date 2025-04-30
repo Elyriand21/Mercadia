@@ -1,3 +1,5 @@
+![Mercadia Image](logo.png)
+
 # 🧭 **Mercadia**  
 *A Text-Based Adventure Game*
 
