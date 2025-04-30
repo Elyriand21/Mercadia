@@ -43,7 +43,7 @@ else:
 
     start = ("You wake up in a place that feels unfamiliar — your head throbbing, your memory foggy. The air smells of damp earth and distant smoke. You're lying on a forest floor, a worn leather satchel by your side. \n" +
              "Inside, you find three things: a flickering compass that spins wildly, a weathered journal with half its pages missing, and a small, glass vial filled with a glowing blue liquid.\n" +
-             "As you rise to your feet, you notice three paths branching from the clearing. To the north, the forest thickens and a strange humming noise pulses from deep within the trees.\n" +
+             "As you rise to your feet, you notice two paths branching from the clearing. To the north, the forest thickens and a strange humming noise pulses from deep within the trees.\n" +
              "To the east, you see a crumbling stone road leading toward the ruins of what might have once been a city.\n" +
              "A distant rumble shakes the ground.\n\n" +
              "What do you do?\n" +
